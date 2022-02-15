@@ -1,3 +1,19 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "text": "I wanna go to the moon",
+      "done": false,
+      "id": 1
+    },
+    {
+      "text": "I wanna rob a bank",
+      "done": true,
+      "id": 2
+    },
+    {
+      "text": "I wanna work in a project with James Bond",
+      "done": false,
+      "id": 3
+    }
+  ]
 }
